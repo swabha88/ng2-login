@@ -1,0 +1,41 @@
+
+ .login-page{
+  margin-left: 0 !important;
+  width: 100% !important;
+ }
+
+ .navbar-brand {
+  color: rgb(236, 240, 241);
+  float: left;
+  padding-top: .25rem;
+  padding-bottom: .25rem;
+  margin-right: 1rem;
+  font-size: 1.25rem; }
+  .navbar-brand:focus, .navbar-brand:hover {
+    text-decoration: none;
+    color:inherit; }
+  .navbar-brand > img {
+    display: block; }
+
+.navbar-brand{
+  text-shadow: 1px 1px 2px rgb(47, 119, 213);
+  font-weight: bold;
+}
+
+
+ .website-name{
+      font-weight: bold;
+    text-align: center;
+    margin: auto;
+    color: #0275d8;
+
+    display: block;
+    width: 100%;
+    /*background-color: #;*/
+    margin-bottom: 15px;
+}
+
+.login-btn{
+  width: 100% !important;
+}
+

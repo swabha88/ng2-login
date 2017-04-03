@@ -1,0 +1,22 @@
+{
+  "name": "ng2-login",
+  "version": "1.1.2",
+  "description": "\"git init\" on steroids",
+  "main": "index.js",
+  "license": "ISC",
+  "bin": {
+    "ng2-login": "./exporter.bat"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swabha88/ng2-login.git"
+  },
+  "author": "Swabha Rajapaksha",
+  "bugs": {
+    "url": "https://github.com/swabha88/ng2-login/issues"
+  },
+  "homepage": "https://github.com/swabha88/ng2-login#readme"
+}
